@@ -1,0 +1,26 @@
+.robot {
+    float: left;
+    background: lightblue;
+    padding: 10px;
+
+    margin: 10px;
+
+    position: relative;
+    border-radius: 5%;
+
+}
+
+.robot:grow {
+    transition: all 0.2s ease-in-out;
+
+}
+
+.robot:hover {
+    transform: scale(.9);
+}
+
+.square {}
+
+.container {
+    text-align: center;
+}
