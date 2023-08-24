@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactrobo/static/css/main.5c93efba.chunk.css",
+    "main.js": "/reactrobo/static/js/main.3fdad60d.chunk.js",
+    "main.js.map": "/reactrobo/static/js/main.3fdad60d.chunk.js.map",
+    "runtime-main.js": "/reactrobo/static/js/runtime-main.cc00cd23.js",
+    "runtime-main.js.map": "/reactrobo/static/js/runtime-main.cc00cd23.js.map",
+    "static/js/2.09d95117.chunk.js": "/reactrobo/static/js/2.09d95117.chunk.js",
+    "static/js/2.09d95117.chunk.js.map": "/reactrobo/static/js/2.09d95117.chunk.js.map",
+    "index.html": "/reactrobo/index.html",
+    "precache-manifest.85e65f688bfcc7a0714130c6db88c780.js": "/reactrobo/precache-manifest.85e65f688bfcc7a0714130c6db88c780.js",
+    "service-worker.js": "/reactrobo/service-worker.js",
+    "static/css/main.5c93efba.chunk.css.map": "/reactrobo/static/css/main.5c93efba.chunk.css.map",
+    "static/js/2.09d95117.chunk.js.LICENSE": "/reactrobo/static/js/2.09d95117.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc00cd23.js",
+    "static/js/2.09d95117.chunk.js",
+    "static/css/main.5c93efba.chunk.css",
+    "static/js/main.3fdad60d.chunk.js"
+  ]
+}
